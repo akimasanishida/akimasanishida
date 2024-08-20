@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 😊 Hi, I'm Akimasa NISHIDA, a Japanese graduate student in the Department of Astronomy, the School of Science, The University of Tokyo. I previously studied in the Department of Physics, the School of Science, The University of Tokyo.
+- 🔭 I’m currently working on research of the planet formation process. I'm observing and analyzing protoplanetary disks using radio.
+- 🌱 I’m currently learning and working with Python and C/C++. I enjoy programming as a hobby.
