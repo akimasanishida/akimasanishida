@@ -1,22 +1,10 @@
 ## Hi there 👋
 
-<!--
-**skrbcr/skrbcr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 😊 Hi, I'm Akimasa NISHIDA, an algorithm engineer working in Tokyo, Japan.
+- 👀 I’m currently working on and interested in mathematical optimization.
+- 🎓 I was a graduate student (master course) in the Department of Astronomy, the School of Science, The University of Tokyo. I previously studied in the Department of Physics, the School of Science, The University of Tokyo.
+- 🔭 I previously worked on research of the planet formation process, observing and analyzing protoplanetary disks using radio.
+- 📝 Zenn (Japanese only): https://zenn.dev/akimasanishida
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-- 😊 Hi, I'm Akimasa NISHIDA, a Japanese graduate student in the Department of Astronomy, the School of Science, The University of Tokyo. I previously studied in the Department of Physics, the School of Science, The University of Tokyo.
-- 🔭 I’m currently working on research of the planet formation process. I'm observing and analyzing protoplanetary disks using radio.
-- 🌱 I’m currently learning and working with Python and C/C++. I enjoy programming as a hobby.
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akimasanishida&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 ![Developer Score](https://github-stats-eta-two.vercel.app/api/stats/akimasanishida?theme=dark)
